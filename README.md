@@ -7,7 +7,7 @@ It supports:
 - Custom gestures: `👍` (good), `👌` (ok)
 
 ## 📸 Demo
-![](https://s3.us-east-1.amazonaws.com/com.chloe.testaws/gesture/gesture.gif)
+![Demo](gesture.gif)
 
 ---
 
