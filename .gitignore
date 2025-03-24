@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+
+.venv
+hand_gesture_data.csv
+gesture_model.pkl
+.idea
