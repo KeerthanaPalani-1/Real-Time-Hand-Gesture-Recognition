@@ -28,7 +28,6 @@ gesture_project/
 ├── collect_data.py         # collect gesture
 ├── train_model.py          # tain model
 ├── recognize_real_time.py  # Real time recognize
-├── gesture_model.pkl       # Model
 └── README.md               # read me 
 ```
 
@@ -60,6 +59,8 @@ Instructions:
 
 Each saved frame will store 63 values (21 keypoints × 3D) + 1 label.
 
+![Demo](gesture_collect.gif)
+
 ### 3. Train the Classifier
 
 ```
@@ -75,3 +76,11 @@ python recognize_real_time.py
 ```
 
 Your webcam will open and show predicted gestures live on the screen.
+
+
+
+## 📥Other Recourses
+
+[Model I trained](https://drive.google.com/file/d/1zXLfWREJxeB_WoMbGbVZHWxcQc4tC56s/view?usp=drive_link)
+
+[Data I collected](https://drive.google.com/file/d/1rwz_Nib5BfTYvAwFfAleCFdFbeHAjJRq/view?usp=sharing)
