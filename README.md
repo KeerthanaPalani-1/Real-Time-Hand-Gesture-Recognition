@@ -81,6 +81,10 @@ Your webcam will open and show predicted gestures live on the screen.
 
 ## 📥Other Resources
 
-[Model I trained](https://drive.google.com/file/d/1zXLfWREJxeB_WoMbGbVZHWxcQc4tC56s/view?usp=drive_link)
+[Model I trained-KNN](https://drive.google.com/file/d/1zXLfWREJxeB_WoMbGbVZHWxcQc4tC56s/view?usp=drive_link)
+
+[Model I trained-MLP](https://drive.google.com/file/d/1mJeIgKxZ1ZGb2F_nvmTQ4B9mgjYo7TzG/view?usp=drive_link)
 
 [Data I collected](https://drive.google.com/file/d/1rwz_Nib5BfTYvAwFfAleCFdFbeHAjJRq/view?usp=sharing)
+
+[Hand Gesture Controlled PPT Page Turner Project](https://github.com/chloexj/PPT_page_turn)
