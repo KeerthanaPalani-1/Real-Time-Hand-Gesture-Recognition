@@ -79,7 +79,7 @@ Your webcam will open and show predicted gestures live on the screen.
 
 
 
-## 📥Other Recourses
+## 📥Other Resources
 
 [Model I trained](https://drive.google.com/file/d/1zXLfWREJxeB_WoMbGbVZHWxcQc4tC56s/view?usp=drive_link)
 
