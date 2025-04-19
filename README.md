@@ -1,6 +1,8 @@
 # 🖐️ Real-Time Hand Gesture Recognition with MediaPipe
 
+This project was developed as part of our Artificial Intelligence course. A group of five members collaboratively contributed to the project.
 This project allows real-time hand gesture recognition using a webcam, powered by [MediaPipe](https://mediapipe.dev/) for hand landmark detection and a simple machine learning classifier (KNN) for gesture classification.
+We focused on supporting both numeric gestures (1 to 5) and a couple of custom gestures like 👍 (good) and 👌 (ok), with the potential to expand further. The project is lightweight, easy to use, and designed to be a practical demonstration of AI in a real-world application.
 
 It supports:
 - Numeric gestures: `1`, `2`, `3`, `4`, `5`
@@ -81,10 +83,10 @@ Your webcam will open and show predicted gestures live on the screen.
 
 ## 📥Other Resources
 
-[Model I trained-KNN](https://drive.google.com/file/d/1zXLfWREJxeB_WoMbGbVZHWxcQc4tC56s/view?usp=drive_link)
+[Model trained-KNN](https://drive.google.com/file/d/1zXLfWREJxeB_WoMbGbVZHWxcQc4tC56s/view?usp=drive_link)
 
-[Model I trained-MLP](https://drive.google.com/file/d/1mJeIgKxZ1ZGb2F_nvmTQ4B9mgjYo7TzG/view?usp=drive_link)
+[Model trained-MLP](https://drive.google.com/file/d/1mJeIgKxZ1ZGb2F_nvmTQ4B9mgjYo7TzG/view?usp=drive_link)
 
-[Data I collected](https://drive.google.com/file/d/1rwz_Nib5BfTYvAwFfAleCFdFbeHAjJRq/view?usp=sharing)
+[Data collected](https://drive.google.com/file/d/1rwz_Nib5BfTYvAwFfAleCFdFbeHAjJRq/view?usp=sharing)
 
 [Hand Gesture Controlled PPT Page Turner Project](https://github.com/chloexj/PPT_page_turn)
